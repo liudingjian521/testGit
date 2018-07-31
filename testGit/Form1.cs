@@ -14,6 +14,8 @@ namespace testGit
         public Form1()
         {
             InitializeComponent();
+            System.Diagnostics.Debug.WriteLine("love make the earth round");
         }
+
     }
 }
